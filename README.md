@@ -8,10 +8,10 @@ My goal is becoming a proficient data scientist with an orientation towards mach
 Below are my current projects in which *Expenditure Analysis* is my most recent work. I'm currently studying Data Science via Coursera.
 
 <a href="https://github.com/dolkt">
-  <img src="img/GitHub-Mark-32px.png" width=20>
+<img src="img/GitHub-Mark-32px.png" width=20>
 <a href="https://www.linkedin.com/in/ted-dolk/">
-  <img src="img/LinkedIn_logo.png" width=20>
-  </a>
+<img src="img/LinkedIn_logo.png" width=20>
+</a>
 
 ## [Project 1 - Expenditure Analysis](https://github.com/dolkt/expenditure_analysis)
 A program built to be run via command line.
