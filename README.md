@@ -12,7 +12,6 @@ Below are my current projects in which *Expenditure Analysis* is my most recent 
   <img src="img/GitHub-Mark-32px.png" width=20>
   </a>
 
-<br/>
 
 <a href="https://www.linkedin.com/in/ted-dolk/">
   <img src="img/LinkedIn_logo.png" width=20>
