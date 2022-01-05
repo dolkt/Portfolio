@@ -1,11 +1,9 @@
 ## About me
-During the pandemic I decided that I wanted to find and learn a new skill that was unrelated to my educational and professional background. Evidently in april of 2021 this finally led me to programming. Specifically Python for Data Analysis.
-
-Ever since then I have spent evenings after work and weekends to continue my learning journey of the language. My Python education so far have specifically been through courses taught by various universities via [Coursera](https://www.coursera.org/)
+Started programming in april of 2021 and currently studying Data Science at the University of Michigan via Coursera.
 
 My goal is becoming a proficient data scientist with an orientation towards machine learning. 
 
-Below are my current projects in which *Expenditure Analysis* is my most recent work. I'm currently studying Data Science via Coursera.
+Below are my current projects in which *Expenditure Analysis* is my most recent project.
 
 <a href="https://github.com/dolkt">
 <img src="img/GitHub-Mark-32px.png" width=20>
